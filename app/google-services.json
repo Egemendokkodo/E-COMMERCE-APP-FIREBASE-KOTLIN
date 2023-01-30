@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783503076099",
+    "project_id": "bringapp-90223",
+    "storage_bucket": "bringapp-90223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783503076099:android:d69c3032f25bafbb2ed736",
+        "android_client_info": {
+          "package_name": "com.uygulamalarim.e_ticaret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783503076099-1ss591td01035qj2qbfj2t72mrk0ouac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uygulamalarim.e_ticaret",
+            "certificate_hash": "5f3aeb582d3e27f31a36c05762d43ad5044070fe"
+          }
+        },
+        {
+          "client_id": "783503076099-3co2h5j9rttie6jvtl0j94sfbrhoki3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAipZHM2tPPQW64HG8O0-2n1iOSurPKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783503076099-3co2h5j9rttie6jvtl0j94sfbrhoki3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
