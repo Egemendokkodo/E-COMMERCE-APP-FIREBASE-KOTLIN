@@ -1,5 +1,5 @@
 # E-COMMERCE-APP-FIREBASE-KOTLIN
-I built a e-commerce app using kotlin and firebase <br><br>
+I built an e-commerce app using kotlin and firebase <br><br>
 
 
 
