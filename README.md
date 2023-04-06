@@ -18,5 +18,5 @@ Browse products fragment retrieves the data from firebase <br><br>
 Item detail activity, also retrieves data from firebase <br><br>
 ![5](https://user-images.githubusercontent.com/70278989/215507209-1ac5da96-b49f-4c70-8c02-4e58b90f09c1.jpg)
 <br><br>
-
+.
 
